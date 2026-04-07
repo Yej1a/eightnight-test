@@ -4,7 +4,7 @@
 
 ## 当前交付物
 
-- `deliverables/常驻7日签到福利系统策划文档.md`
+- `deliverables/常驻7日签到福利系统策划文档.md`（初版）
 - `deliverables/常驻7日签到福利系统开发策划文档.md`
 - `deliverables/常驻7日签到福利系统开发策划文档.docx`
 - `处理调优过程.docx`
