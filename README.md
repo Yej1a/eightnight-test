@@ -6,6 +6,24 @@
 
 - `deliverables/常驻7日签到福利系统策划文档.md`
 - `deliverables/常驻7日签到福利系统开发策划文档.md`
+- `deliverables/常驻7日签到福利系统开发策划文档.docx`
+- `处理调优过程.docx`
+
+## 如何查看项目
+
+如果你是第一次打开这个仓库，建议按下面顺序查看：
+
+1. 先看 `README.md`
+2. 再看 `deliverables/常驻7日签到福利系统开发策划文档.docx`
+3. 如果想看规则推导过程，再看 `deliverables/常驻7日签到福利系统策划文档.md`
+4. 如果想看协作与决策记录，再看 `docs/协作流程.md` 和 `docs/决策记录.md`
+5. 如果想看自动化校验思路，再看 `deliverables/signin_7day_cycle_validator.py` 与 `deliverables/常驻7日签到自动化脚本思路.md`
+
+推荐查看方式：
+
+- 需要正常文档格式时，直接打开 `deliverables/常驻7日签到福利系统开发策划文档.docx`
+- 需要在线快速浏览时，优先看 Markdown 文档
+- 需要理解实现与校验思路时，再看脚本和说明文件
 
 ## 使用前说明
 
